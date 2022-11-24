@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @koust997
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on app deployment
-- 📫 How to reach me "you know"
+- Total 3 years of experience, with 1.7 years of experience as Associate Systems Engineer in managing and 
+  configuration of Network infrastructure in TCS. Proven understanding of troubleshooting and resolving
+  hardware and software issues.
+- I am skilled in the administration and configuration of the switch, WLAN and APs with putty.
+- 
 
 <!---
 koust997/koust997 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
