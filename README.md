@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @koust997
+- 👋 Hi, I’m Koustubh Pawar
 - 👀 I’m interested in web development 
-- 💞️ I’m looking to collaborate on app deployment
+- 💞️ I’m looking to collaborate on web app deployment
 - Total 3 years of experience, with 1.7 years of experience as Associate Systems Engineer in managing and 
   configuration of Network infrastructure in TCS. Proven understanding of troubleshooting and resolving
   hardware and software issues.
