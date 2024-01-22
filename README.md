@@ -1,10 +1,9 @@
 - 👋 Hi, I’m Koustubh Pawar
-- 👀 I’m interested in web development 
+- 👀 I’m interested in web development and cloud infrastructure projects.
 - 💞️ I’m looking to collaborate on web app deployment
-- Total 3 years of experience, with 1.7 years of experience as Associate Systems Engineer in managing and 
-  configuration of Network infrastructure in TCS. Proven understanding of troubleshooting and resolving
-  hardware and software issues.
-- I am skilled in the administration and configuration of the switch, WLAN and APs with putty.
+-  Total 3 years of experience, with 2 years of experience as a System Engineer in designing, implementing, and
+managing network infrastructures
+- I am skilled in administering and configuring the Network infrastructure devices such as switch, WLAN and APs with putty.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koust997)](https://github.com/anuraghazra/github-readme-stats)
 
